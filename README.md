@@ -5,4 +5,4 @@ Recipe app
 
 ## Resources
 
-- APOLLO []()
+- APOLLO [GraphQL Python Complete Guide](https://www.apollographql.com/blog/graphql/python/complete-api-guide/)
